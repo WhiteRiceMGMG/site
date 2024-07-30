@@ -216,7 +216,7 @@ body {
     width: 5px;
     height: 9px;
     transform: translateY(-50%);
-    background-image: url("./image/icon_arrow-right.png");
+    background-image: url("images/icon_arrow-right.png");
     background-repeat: no-repeat;
     background-size: 5px 9px;
   }
